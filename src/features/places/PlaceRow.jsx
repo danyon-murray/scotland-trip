@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { Stars } from "../../components/Stars";
 import { useIsMobile } from "../../hooks/useIsMobile";
 import { DeleteButton } from "../../components/DeleteButton";
 
